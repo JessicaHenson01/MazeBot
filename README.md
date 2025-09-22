@@ -2,7 +2,7 @@
 
 **Overview of Project**
 
-This is a one semester project completed for Intelligent Systems. Throughout our class we build a maze solving robots. There are 4 labs total and at the end of the semester the robot will be able to autonomously solve a maze while searching for treasures!
+This is a one semester project completed for Intelligent Systems. Throughout our class we build a maze solving robots. Our robot is able to autonomously solve a maze while searching for treasures!
 
 **Links to Labs**
 
